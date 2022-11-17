@@ -1,5 +1,5 @@
 {
-  "name": "lab6-vuejs",
+  "name": "lab6-vue",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "feather-icons": "^4.29.0",
     "vue": "^3.2.41"
   },
   "devDependencies": {
