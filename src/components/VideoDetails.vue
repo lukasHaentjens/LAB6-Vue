@@ -9,7 +9,7 @@ let description = ref('')
 // onmounted
 onMounted(()=> {
   // fetch api
-  const api_url = "http://localhost:5173/tiktok.json";
+  const api_url = "https://lab-6-vue.vercel.app/tiktok.json";
   fetch(api_url)
       .then(response => response.json())
       .then(data => {
